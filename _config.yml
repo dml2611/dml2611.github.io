@@ -1,5 +1,5 @@
 # Build settings
-theme: slate
+theme: Merlot
 plugins:
   - jekyll-feed
 
